@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Leiux23.aternos.me",
+    "ip": "Leiux23.aternos.me:25561",
     "port": 25561,
     "version": "",
     "try-creative": false
