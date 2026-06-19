@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Leiux23.aternos.me:25561",
+    "ip": "Leiux23.aternos.me",
     "port": 25561,
-    "version": "",
+    "version": "26.1.2 (2592)",
     "try-creative": false
   },
   "position": {
